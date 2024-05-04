@@ -1,14 +1,14 @@
 # Data Scientist
 
 ### Technical Skills
-- Languages & Frameworks: Python, R, MATLAB, MySQL, PostgreSQL, Oracle Cloud, C, C++, C#, ASP.NET, JavaScript, PHP
-- Libraries: Numpy, MatplotLib, Sklearn, Keras
-- Data visualization and integration - Tableau, Snowflake, Talend Studio
-- Developer Tools: Git, VSCode, Jenkin
+- Languages & Frameworks: Python, R, MATLAB, MS SQL, PostgreSQL, Oracle Cloud, C, C++, C#, ASP.NET, JavaScript, PHP
+- Libraries             : Pandas, Numpy, Matplotlib, PyTorch, TensorFlow, Sklearn, Keras
+- Data visualization    : Tableau, PowerBI, Snowflake, Talend Studio
+- Developer Tools       : Git, VSCode, Jenkins, JIRA
 
 ## Education
 - Master of Science in Engineering Science: Data Science | SUNY - UNIVERSITY AT BUFFALO (Jan 2023 - May 2024)
-- Bachelor of Engineering in Computer Science | R.V. COLLEGE OF ENGINEERING (Aug 2015 - July 2019)
+- Bachelor of Engineering in Computer Science            | R.V. COLLEGE OF ENGINEERING (Aug 2015 - July 2019)
 
 ## Work Experience
 #### STUDENT ASSISTANT | SUNY - UB, NY (Feb 2023 - May 2023)
