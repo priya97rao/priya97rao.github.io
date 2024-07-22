@@ -19,6 +19,7 @@ A tech-savvy professional seeking product roles. With a strong background in cod
 - Led cross-functional teams through multiple pieces of SDLC, maintained a low defect count, and achieved a burn rate of 10 story points per sprint. Analyzed business requirements, identified gaps, and defined solutions for complex business issues.
 -	Managed projects by writing user stories, crafting roadmaps and developing functional flows. Engaged in sprint planning, Root Cause Analysis (RCA) meetings, and analyzed technical requirements to improve project outcomes.
 -	Collaborated with key stakeholders, promptly troubleshooting user-reported issues, adhering to HIPAA & PHI regulations. Achieved a 70% decrease in backlog and timely delivery of high-risk solutions, improving client relationships.
+-	Conceptualized and integrated LDAP authorization for Active Directory (AD) users to enable seamless SSH login and single sign-on (SSO) functionality post-login to Millennium.
 - Created comprehensive documentation outlining data processes, flowcharts, and system configurations to enhance transparency and promote teamwork.
 
 ##### Technical:
