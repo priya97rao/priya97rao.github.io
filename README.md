@@ -1,12 +1,13 @@
 # Product Analyst, Product Associate, Product Manager, Business Analyst
 
-A tech-savvy professional seeking product roles. With a strong background in coding, database management, data analysis, and machine learning, I aim to leverage my skills to innovate and launch new products for customers. My customer-centric approach, along with technical development and extensive ML analysis experience, drives my passion for product innovation.
+A tech-savvy professional seeking product roles. With a strong background in coding, database management, data analysis, and machine learning, I aim to leverage my skills to innovate and launch new products for customers. My customer-centric approach, along with technical development and extensive data analysis experience, drives my passion for product innovation.
 
 ### Skills
-- Languages & Frameworks: Python, R, MATLAB, MS SQL, PostgreSQL, Oracle Cloud, C, C++, C#, ASP.NET, JavaScript, PHP
-- Libraries             : Pandas, Numpy, Matplotlib, PyTorch, TensorFlow, Sklearn, Keras
-- Data visualization    : Tableau, PowerBI, Snowflake, Talend Studio
-- Developer Tools       : Git, VSCode, Jenkins, JIRA
+- Languages: Python, R, Matlab, MSSQL, PostgreSQL, Azure, Databricks, C, C++, C#, ASP.NET, JavaScript, HTML
+- ML Libraries: Pandas, Numpy, Matplotlib, PyTorch, TensorFlow, Sklearn, PySpark, Keras
+- Data visualization and integration: Tableau, PowerBI, Snowflake, Talend Studio
+- Developer Tools: Git, VSCode, Jenkins, JIRA
+- Microsoft Office: Excel, VBA, PowerPoint, Word
 
 ## Education
 - Master of Science in Engineering Science: Data Science | UNIVERSITY AT BUFFALO - SUNY (Jan 2023 - May 2024)
@@ -14,12 +15,15 @@ A tech-savvy professional seeking product roles. With a strong background in cod
 
 ## Work Experience
 #### Full-Stack software Engineer | Oracle Health (July 2019 - Nov 2022)
+##### Managerial:
 - Led cross-functional teams through multiple pieces of SDLC, maintained a low defect count, and achieved a burn rate of 10 story points per sprint. Analyzed business requirements, identified gaps, and defined solutions for complex business issues.
 -	Managed projects by writing user stories, crafting roadmaps and developing functional flows. Engaged in sprint planning, Root Cause Analysis (RCA) meetings, and analyzed technical requirements to improve project outcomes.
 -	Collaborated with key stakeholders, promptly troubleshooting user-reported issues, adhering to HIPAA & PHI regulations. Achieved a 70% decrease in backlog and timely delivery of high-risk solutions, improving client relationships.
--	Conceptualized, developed and deployed a C# .NET end-to-end user interface employing system design and SQL for stored procedures for tracking baby bottle administration, improving nurse usability and error resolution. Integrated CI/CD through Jenkins, gaining widespread client adoption leading to $1.89 million in revenue.
--	Built scalable data processing capabilities for large datasets using Flask, Kafka and Python and created intuitive data visualizations with Tableau, improving decision-making processes.
 - Created comprehensive documentation outlining data processes, flowcharts, and system configurations to enhance transparency and promote teamwork.
+
+##### Technical:
+- Designed and developed a C# .NET end-to-end user interface to improve nurse usability and error resolution. Employed system design and SQL for stored procedures to track baby bottle administration. Deployed and integrated CI/CD through Jenkins. Gained widespread client adoption leading to $1.89 million in revenue. 
+-	Built scalable data processing capabilities for large datasets using Flask, Kafka and Python and created intuitive data visualizations with Tableau, improving decision-making processes.
 - Integrated SAP reports that would showcase patient data based on workflow to support all time-zones for 200+ international clients.
 - Transitioned application to provide compatibility with the latest versions of Edge Chromium and Chrome browsers, expanding accessibility beyond Internet Explorer.
 
@@ -32,10 +36,10 @@ A tech-savvy professional seeking product roles. With a strong background in cod
 
 ## Projects
 #### Fraud detection in health insurance claims | Anomaly Detection, Sklearn, Seaborn
-●	Developed a fraud detection system for health insurance using anomaly detection algorithms Isolation Forest and Autoencoder.
-●	Preprocessed Kaggle’s healthcare provider data of 100,000+ records using binary encoding and standardization to ensure robustness.
-●	Implemented PCA for dimensionality reduction, visualizing outliers with both 2D and 3D scatter plots.
-●	Captured 95% of fraudulent cases with Autoencoder by minimizing reconstruction error during training, reducing false positives by 20%.
+-	Developed a fraud detection system for health insurance using anomaly detection algorithms Isolation Forest and Autoencoder.
+-	Preprocessed Kaggle’s healthcare provider data of 100,000+ records using binary encoding and standardization to ensure robustness.
+-	Implemented PCA for dimensionality reduction, visualizing outliers with both 2D and 3D scatter plots.
+-	Captured 95% of fraudulent cases with Autoencoder by minimizing reconstruction error during training, reducing false positives by 20%.
 
 #### ETL data warehouse project | Data Engineering, Tableau, Talend Studio, Oracle Cloud
 - Executed a comprehensive ETL project on Oracle Cloud, establishing a robust data warehouse and incorporating data modeling principles. Developed an efficient data pipeline using Talend Studio to design tables, establish foreign relationships, and seamlessly load data from Excel files with necessary transformations.
@@ -55,7 +59,7 @@ A tech-savvy professional seeking product roles. With a strong background in cod
 
 ## Certifications
 #### Azure Data Scientist 
-- In the process of receiving Azure Data Scientist certification from Microsoft, showcasing Advanced Machine Learning and Azure expertise.
+- In the process of obtaining the Azure Data Scientist certification from Microsoft, developing expertise in advanced Machine Learning and Azure.
 
 #### Snowflake Training Workshop
 -  Completed Snowflake workshop demonstrating proficiency in database setup, schema organization, and table design for effective data storage. Leveraged advanced SQL techniques to efficiently load, manipulate, and analyze JSON and CSV data.
